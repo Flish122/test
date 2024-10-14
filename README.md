@@ -31,6 +31,7 @@
             font-size: 1.3em; /* Увеличен размер шрифта */
             font-weight: bold;
             color: #fefefe; /* Цвет текста остался белым */
+            flex: content;
         }
         
         .answers {
